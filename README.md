@@ -36,7 +36,7 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-
+~~~
 module Halfadder(a,b,sum,carry);
 input a,b;
 output sum,carry;
@@ -56,7 +56,7 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: panimalar.p
 RegisterNumber: 22009107 
 */
-
+~~~
 
 ### Output:
 ### RTL realization
